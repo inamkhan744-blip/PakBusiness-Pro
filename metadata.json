@@ -1,0 +1,6 @@
+{
+  "name": "PakBusiness Pro",
+  "description": "Comprehensive business management suite with POS, inventory, clinic Rx, accounting, barcode scanning, and multi-tenant ledger for Pakistani businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
